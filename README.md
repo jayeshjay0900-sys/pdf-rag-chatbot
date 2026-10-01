@@ -12,6 +12,14 @@ The system is designed to run locally without requiring an external LLM API.
 
 ---
 
+## Working Process
+
+The following diagram illustrates the complete end-to-end workflow of the PDF RAG Chatbot, from PDF ingestion and embedding creation to hybrid retrieval, local LLM generation, source citations, and context-aware conversations.
+
+<p align="center">
+  <img src="docs/working-process.png" alt="PDF RAG Chatbot Working Process" width="100%">
+</p>
+
 ## Architecture
 
 ```text
