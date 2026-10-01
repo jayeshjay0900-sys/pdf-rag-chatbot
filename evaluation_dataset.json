@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "question": "What is machine learning?",
+        "reference_answer": "Machine learning is a field of artificial intelligence in which computers learn patterns from data and use those patterns to make predictions or decisions.",
+        "keywords": [
+            "machine learning",
+            "artificial intelligence",
+            "data",
+            "patterns"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is supervised learning?",
+        "reference_answer": "Supervised learning is a type of machine learning where a model learns from labeled training data to make predictions on new data.",
+        "keywords": [
+            "supervised learning",
+            "labeled",
+            "training data",
+            "predictions"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is unsupervised learning?",
+        "reference_answer": "Unsupervised learning is a type of machine learning where a model works with unlabeled data to discover patterns, groups, or structures.",
+        "keywords": [
+            "unsupervised learning",
+            "unlabeled",
+            "data",
+            "patterns",
+            "groups"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is overfitting in machine learning?",
+        "reference_answer": "Overfitting happens when a machine learning model learns the training data too closely, including its noise, and performs poorly on new or unseen data.",
+        "keywords": [
+            "overfitting",
+            "training data",
+            "noise",
+            "new data",
+            "unseen data"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What is the difference between training data and testing data?",
+        "reference_answer": "Training data is used to teach a machine learning model, while testing data is used to evaluate how well the trained model performs on unseen data.",
+        "keywords": [
+            "training data",
+            "testing data",
+            "train",
+            "evaluate",
+            "unseen data"
+        ]
+    }
+]

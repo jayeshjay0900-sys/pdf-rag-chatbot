@@ -1,0 +1,12 @@
+streamlit
+numpy
+scikit-learn
+pypdf
+pymupdf
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
